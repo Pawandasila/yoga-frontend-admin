@@ -1,0 +1,9 @@
+body {
+    background-color: #000;
+    margin: 0; /* Ensure no default margin */
+    padding: 0; /* Ensure no default padding */
+  }
+  
+  .bg-color{
+    background-color: #f9fafb;
+  }
