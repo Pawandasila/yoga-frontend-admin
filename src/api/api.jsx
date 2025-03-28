@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:4000/api";
+const BASE_URL = "https://yoga-backend-hy1v.vercel.app/api";
 
 export const SignUpAdmin = async (userData) => {
   try {
